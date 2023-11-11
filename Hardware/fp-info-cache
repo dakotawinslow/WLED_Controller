@@ -1,4 +1,4 @@
-22358455217244856
+22360154874222114
 AP63205WU-7
 SOIC_05WU-7_DIO
 
@@ -52898,6 +52898,13 @@ SN74AHCT125N
 0
 14
 14
+Custom
+TSC015 Tactile switch
+
+
+0
+4
+4
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
